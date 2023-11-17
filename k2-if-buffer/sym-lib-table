@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "k2-if-buffer-parts")(type "KiCad")(uri "${KIPRJMOD}/k2-if-buffer-parts.kicad_sym")(options "")(descr ""))
+)
