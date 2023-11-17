@@ -5,3 +5,4 @@
 *.tsv
 *.xml
 *.bak
+*.lck
